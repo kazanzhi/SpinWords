@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWords", "SpinWords\SpinWords.csproj", "{C319DDAC-3F63-45DE-ADDF-1976F934889D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C319DDAC-3F63-45DE-ADDF-1976F934889D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C319DDAC-3F63-45DE-ADDF-1976F934889D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C319DDAC-3F63-45DE-ADDF-1976F934889D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C319DDAC-3F63-45DE-ADDF-1976F934889D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68BFB223-B0BF-48D5-843E-76E854C58F96}
+	EndGlobalSection
+EndGlobal
