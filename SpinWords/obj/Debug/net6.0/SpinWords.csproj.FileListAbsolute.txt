@@ -1,0 +1,15 @@
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\bin\Debug\net6.0\SpinWords.exe
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\bin\Debug\net6.0\SpinWords.deps.json
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\bin\Debug\net6.0\SpinWords.runtimeconfig.json
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\bin\Debug\net6.0\SpinWords.dll
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\bin\Debug\net6.0\SpinWords.pdb
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.csproj.AssemblyReference.cache
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.AssemblyInfoInputs.cache
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.AssemblyInfo.cs
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.csproj.CoreCompileInputs.cache
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.dll
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\refint\SpinWords.dll
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.pdb
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\SpinWords.genruntimeconfig.cache
+C:\Users\Yevhen Kazanzhy\Desktop\.Net\SpinWords\SpinWords\obj\Debug\net6.0\ref\SpinWords.dll
